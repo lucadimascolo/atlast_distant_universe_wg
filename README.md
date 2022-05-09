@@ -1,5 +1,5 @@
 # AtLAST Distant Universe & Cosmology working group
-This is a collaborative work space for the AtLAST Distant Universe & Cosmology working group working group.
+This is a collaborative work space for the AtLAST Distant Universe & Cosmology case study working group.
 
 ## Checklist for using this space:
 1) If you do not have a GitHub account, you will need to make one: https://github.com/join
