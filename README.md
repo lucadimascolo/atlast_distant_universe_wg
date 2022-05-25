@@ -1,6 +1,8 @@
 # AtLAST Distant Universe & Cosmology working group
 This is a collaborative work space for the AtLAST Distant Universe & Cosmology case study working group.
 
+To-do items [here](https://github.com/jtr6/atlast_distant_universe_wg/projects/1)
+
 ## Checklist for using this space:
 1) If you do not have a GitHub account, you will need to make one: https://github.com/join
 2) Request to join the repository as a collaborator: click on the "Discussions" tab above, and leave a comment on the ["Join this working group as a collaborator!](https://github.com/jtr6/atlast_distant_universe_wg/discussions/1)" thread.
