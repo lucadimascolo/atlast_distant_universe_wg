@@ -1,8 +1,6 @@
 # AtLAST Distant Universe & Cosmology working group
 This is a collaborative work space for the AtLAST Distant Universe & Cosmology case study working group.
 
-To-do items [here](https://github.com/jtr6/atlast_distant_universe_wg/projects/1)
-
 See the [Wiki](https://github.com/jtr6/atlast_distant_universe_wg/wiki) for all the work so far. 
 
 ## Checklist for using this space:
