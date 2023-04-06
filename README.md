@@ -3,6 +3,13 @@ This is a collaborative work space for the AtLAST Distant Universe & Cosmology c
 
 See the [Wiki](https://github.com/jtr6/atlast_distant_universe_wg/wiki) for all the work so far. 
 
+- A link for a template for each science case to work on is the follwoing :
+
+  - Redshift survey: https://www.overleaf.com/6191672564sbhqmxjjjfwf
+  - Dust+CGM: https://www.overleaf.com/1175683164crhyycbhdwgw
+  - SZ: https://www.overleaf.com/3725243639ndsgrgxfkvpk
+
+
 ## Checklist for using this space:
 1) If you do not have a GitHub account, you will need to make one: https://github.com/join
 2) Request to join the repository as a collaborator: click on the "Discussions" tab above, and leave a comment on the ["Join this working group as a collaborator!](https://github.com/jtr6/atlast_distant_universe_wg/discussions/1)" thread.
