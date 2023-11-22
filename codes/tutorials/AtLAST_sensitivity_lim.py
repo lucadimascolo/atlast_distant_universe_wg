@@ -17,7 +17,7 @@ calc.weather = octile
 calc.elevation = 45*u.deg
 
 nulist = np.linspace(Data.obs_frequency.lower_value,
-                     Data.obs_frequency.upper_value,10)
+                     Data.obs_frequency.upper_value,1000)
 
 nuband = np.zeros(nulist.shape)
 nusens = np.zeros(nulist.shape)
